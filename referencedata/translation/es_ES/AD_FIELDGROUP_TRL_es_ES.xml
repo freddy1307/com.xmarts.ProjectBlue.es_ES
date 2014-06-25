@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_FIELDGROUP" version="">
+  <row id="1040CE6F13C0433797008DF0148C6C4F" trl="Y">
+    <value column="Name" isTrl="Y" original="Projects for Blue Print">Proyectos para Blue Print</value>
+  </row>
+</compiereTrl>

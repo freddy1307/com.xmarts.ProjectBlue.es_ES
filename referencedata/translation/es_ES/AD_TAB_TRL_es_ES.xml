@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_TAB" version="">
+  <row id="03AB171EF30C4C58A7F9BD203A55FD12" trl="Y">
+    <value column="Name" isTrl="N" original="Brief">Brief</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="2229217E77574269B419E6559153CD3B" trl="Y">
+    <value column="Name" isTrl="N" original="Macroescaleta">Macroescaleta</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3837E473A21D4B58AB30924391596CDF" trl="Y">
+    <value column="Name" isTrl="Y" original="Contact">Personas de contacto</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3A07BB9949634E0AAF03C23C22793225" trl="Y">
+    <value column="Name" isTrl="Y" original="Phase">Fases</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="955EB6CA4FD2493AA3FAC2E1ADB4D29E" trl="Y">
+    <value column="Name" isTrl="Y" original="Author">Autor</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A99F3A00AD33450395B74AA1C7CB74CE" trl="Y">
+    <value column="Name" isTrl="Y" original="Characters">Personajes</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C6521D8F8CEB482EA4E1F42DABF10FAC" trl="Y">
+    <value column="Name" isTrl="N" original="Brief">Brief</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D9E098FDF6A445D4B0F6A4C6C8262513" trl="Y">
+    <value column="Name" isTrl="Y" original="Character">Personaje</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="DC16AB6210B64BBD9E56071A15DE592C" trl="Y">
+    <value column="Name" isTrl="Y" original="Registration of project">Registro de proyecto</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F87CD624ECBE4A16AAD8C01817370090" trl="Y">
+    <value column="Name" isTrl="Y" original="Directory">Directorio</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

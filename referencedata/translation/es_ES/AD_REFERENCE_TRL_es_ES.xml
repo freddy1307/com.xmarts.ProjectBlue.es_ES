@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REFERENCE" version="">
+  <row id="01AB955C7206466897B5614D5EA6F66F" trl="Y">
+    <value column="Name" isTrl="N" original="Occupation">Occupation</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="0EA6CB02FB6A4B438CEA61AEFF2A3CC1" trl="N">
+    <value column="Name" isTrl="N" original="Experience for author">Experience for author</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="12945FAECED74BCDB0F76BF4D51FA70A" trl="Y">
+    <value column="Name" isTrl="Y" original="Contents of projects">Contenidos de proyectos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="21B3D33021CD478D87DC39AC5337C3E3" trl="N">
+    <value column="Name" isTrl="Y" original=" Project Management">Project</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="44C9A552BAA3462FAE23525CA4ED3B3F" trl="N">
+    <value column="Name" isTrl="N" original="Type of budget">Type of budget</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4D364D7229F144479BA9DE52FDCE8379" trl="N">
+    <value column="Name" isTrl="N" original="Status of project">Status of project</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6F8359E3F25C4E8FAF180B22F1087EB0" trl="N">
+    <value column="Name" isTrl="N" original="Lista de calificaciones para proyectos">Lista de calificaciones para proyectos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="828927A7CFFE43148290E55124D89DA3" trl="N">
+    <value column="Name" isTrl="N" original="Tipo de personajes">Tipo de personajes</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="963F8CD078744BFAB1324476CDC2D38D" trl="N">
+    <value column="Name" isTrl="N" original="Genre of proyect">Genre of proyect</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B0A16D8E87DB4F55BD7F64F79ABBD6E1" trl="N">
+    <value column="Name" isTrl="N" original="Budget">Budget</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="CF892F115F6F470F93A0ABC852EC4870" trl="N">
+    <value column="Name" isTrl="N" original="Type Cost">Type Cost</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F22AE08D0A8C44439C00E87854DDD8FE" trl="N">
+    <value column="Name" isTrl="N" original="Medio de recepcion">Medio de recepcion</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
