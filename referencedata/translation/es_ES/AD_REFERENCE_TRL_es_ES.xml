@@ -50,8 +50,23 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="BC29FD9448BC491BA978A1820D1A3A2F" trl="N">
+    <value column="Name" isTrl="N" original="Calificacion de los proyecto">Calificacion de los proyecto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C5C5F35BE8C84492A65BF474DB7CF09B" trl="N">
+    <value column="Name" isTrl="N" original="Durations">Durations</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="CF892F115F6F470F93A0ABC852EC4870" trl="N">
     <value column="Name" isTrl="N" original="Type Cost">Type Cost</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="DEFB35EA38364A4291B9E7162173EBBD" trl="N">
+    <value column="Name" isTrl="N" original="Phase project">Phase project</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

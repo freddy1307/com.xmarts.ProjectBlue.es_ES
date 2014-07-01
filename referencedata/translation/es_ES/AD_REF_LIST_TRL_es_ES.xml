@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="027D362F0C5D4956A513CB88A86583EF" trl="Y">
+    <value column="Name" isTrl="Y" original="Sold">Vendida</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="1140EF5800C940ABBE3C10564A9F80A9" trl="Y">
-    <value column="Name" isTrl="Y" original="Payment of fees">Pago de derechos</value>
+    <value column="Name" isTrl="Y" original="Law Firm">Firma de Derecho</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="11889D0CC14E403C9BEB0542E1D557C0" trl="Y">
     <value column="Name" isTrl="N" original="9">9</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="15344C2341B64A3093D87E8D4D41ED83" trl="Y">
+    <value column="Name" isTrl="Y" original="Medium">Medio</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="153B4F0E696C493B94962BDC0EEEEC61" trl="Y">
@@ -14,6 +22,14 @@
   </row>
   <row id="20B14C90508F42D490A4B3FD8680A658" trl="Y">
     <value column="Name" isTrl="Y" original="Antagonist">Antagonista</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="21A2FA44AF3E473487B2018596F34A47" trl="Y">
+    <value column="Name" isTrl="Y" original="Option">Opcion</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="26C839A29B034FEFAD11124088188C2A" trl="Y">
+    <value column="Name" isTrl="Y" original="Available ">Disponible</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="2C9A5120EB1E43F7BCA8B3161E348793" trl="Y">
@@ -48,12 +64,28 @@
     <value column="Name" isTrl="Y" original="Infantile">Infantil</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="4D1909B381AE4A3FBAF7059F9381A7DE" trl="Y">
+    <value column="Name" isTrl="Y" original="Level 1">Nivel 1</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="4DBBB54F014440F4A150B4DFD148A256" trl="Y">
     <value column="Name" isTrl="Y" original="Physical">Fisico</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="4F5885435D754F5781AD57E7F53BAFE7" trl="Y">
+    <value column="Name" isTrl="Y" original="Expert">Experto</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="534DCAF0662C4AEA9E680A7E6C5B42C3" trl="Y">
-    <value column="Name" isTrl="Y" original="Payment Option">Pago de opción</value>
+    <value column="Name" isTrl="Y" original="Signature Option">Firma de Opción</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="6A6ADB3F54F048C4A41A88ECEF81794D" trl="Y">
+    <value column="Name" isTrl="Y" original="Level 2">Nivel 2</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="70527A48978944C09D1DED8D29A15C75" trl="Y">
+    <value column="Name" isTrl="Y" original="Production ">Produccion</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="78084EEF646946C8992BF7C51FA65FF3" trl="Y">
@@ -62,6 +94,10 @@
   </row>
   <row id="7B639B8F35854CD0A6755F24444A4729" trl="Y">
     <value column="Name" isTrl="Y" original="Comedy">Comedia</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="7DD9C81F4072432A90710BDB142EE57D" trl="Y">
+    <value column="Name" isTrl="Y" original="Selected for conclave">Seleccionado para conclave</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8C65F54AB1B54734B7519934FB1D74A8" trl="Y">
@@ -76,6 +112,14 @@
     <value column="Name" isTrl="Y" original="Spending">Gasto</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="9312D7CE647244A194CDADDA39544DA2" trl="Y">
+    <value column="Name" isTrl="Y" original="Development">Desarrollo</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="968DE4212E20436EA88EF119E37B5013" trl="Y">
+    <value column="Name" isTrl="Y" original="80 Minuts">80 Minutos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="A5A8AFD2F01D4FA9B30AF4F33893DCBB" trl="Y">
     <value column="Name" isTrl="N" original="6">6</value>
     <value column="Description" isTrl="N" original=""/>
@@ -88,8 +132,20 @@
     <value column="Name" isTrl="Y" original="Juvenile">Juvenil</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="B28E3492806D411BA3ACCE088558B824" trl="Y">
+    <value column="Name" isTrl="Y" original="Later analysis">Análisis Posterior</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B35770639261490EB82033AA95BF751E" trl="Y">
+    <value column="Name" isTrl="Y" original="30 Minuts">30 Minutos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="B39114B43C7D46E9B3222B43C3BEFA76" trl="Y">
     <value column="Name" isTrl="Y" original="Refacturables Rates">Gastos refacturables</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="BA2D75E1A09C41DCAD01B67A1E3CAEF5" trl="Y">
+    <value column="Name" isTrl="Y" original="1 Hour">1 Hora</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BE133F9939864AAE84FE33BF6EEC954A" trl="Y">
@@ -108,8 +164,24 @@
     <value column="Name" isTrl="N" original="Thriller">Thriller</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="C821CF8B0F604006A417DF83CB6A90A6" trl="Y">
+    <value column="Name" isTrl="Y" original="Registered ">Registrado</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C9C06C989B4746CFAC6051B437CF3B77" trl="Y">
+    <value column="Name" isTrl="Y" original="15 Minuts">15 Minutos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="CC948985B1C14A88A88D5711AA839843" trl="Y">
     <value column="Name" isTrl="Y" original="Police">Policiaco</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="CF8812908353490EA05DB18D3AB94271" trl="Y">
+    <value column="Name" isTrl="Y" original="Selection Scout ">Seleccion de Scout</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D1CFAB781D184AA29311D8DAF56DCD63" trl="Y">
+    <value column="Name" isTrl="Y" original="5 Minuts">5 Minutos</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D25B26AA5CA7484BB7B66E7068EE6BAD" trl="Y">
@@ -126,6 +198,18 @@
   </row>
   <row id="DE364F5C33204255AE80AFD74680283A" trl="Y">
     <value column="Name" isTrl="N" original="Gameshow">Gameshow</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E0D242BE993D4BEAB4E01DF57473535E" trl="Y">
+    <value column="Name" isTrl="Y" original="Level 3">Nivel 3</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E1E2FE037B684D168CD5CCB904580DB3" trl="Y">
+    <value column="Name" isTrl="Y" original="Other">Otro</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E868B1FDF3EF4686AB19C5E0A81A36C4" trl="Y">
+    <value column="Name" isTrl="N" original="Amateur">Amateur</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="ED2EC2C054C24C40913BE5DB9F776622" trl="Y">

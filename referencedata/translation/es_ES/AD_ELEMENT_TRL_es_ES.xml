@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="es_ES" table="AD_ELEMENT" version="">
+  <row id="03C1F67196EC40C8B74F3A4CE8CF25EB" trl="Y">
+    <value column="Name" isTrl="Y" original="Other">Otro</value>
+    <value column="PrintName" isTrl="Y" original="Other">Otro</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="0A9D5D922CD6494DA5E40A1CC81C8F1C" trl="N">
     <value column="Name" isTrl="N" original="PMB_Project_id">PMB_Project_id</value>
     <value column="PrintName" isTrl="N" original="PMB_Project_id">PMB_Project_id</value>
@@ -13,6 +23,16 @@
   <row id="0CDFADD9F62F4478BFAE0B06644AB15E" trl="N">
     <value column="Name" isTrl="Y" original="Type of character">Tipo de personaje</value>
     <value column="PrintName" isTrl="Y" original="Type of character">Tipo de personaje</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0E3E66697A58460CAE2FB2D1604C6F7B" trl="Y">
+    <value column="Name" isTrl="Y" original="Law Firm">Firma de Derecho</value>
+    <value column="PrintName" isTrl="Y" original="Law Firm">Firma de Derecho</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -43,6 +63,16 @@
   <row id="132AF0FB893F4C87AEECA7577A75782C" trl="Y">
     <value column="Name" isTrl="Y" original="Sequence Phase">Secuencia</value>
     <value column="PrintName" isTrl="Y" original="Sequence">Secuencia</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1C8659AF568F4FEF922E3865A4933336" trl="Y">
+    <value column="Name" isTrl="Y" original="Observations">Observaciones</value>
+    <value column="PrintName" isTrl="Y" original="Observations">Observaciones</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -170,6 +200,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="49B33AB47EBB4EAF8AE4A04FA7CDFAFE" trl="Y">
+    <value column="Name" isTrl="Y" original="Signature Option">Firma de Opción</value>
+    <value column="PrintName" isTrl="Y" original="Signature Option">Firma de Opción</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="504B4E62DEE2405C85AADAD9E1DE7DFB" trl="Y">
     <value column="Name" isTrl="Y" original="Budget Execution">Presupuesto en ejecución</value>
     <value column="PrintName" isTrl="Y" original="Budget Execution">Presupuesto en ejecución</value>
@@ -180,9 +220,19 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="5504CA1DAF3849D2B6812ADEF8333969" trl="Y">
-    <value column="Name" isTrl="Y" original="Ratings">Calificaciones</value>
-    <value column="PrintName" isTrl="Y" original="Ratings">Calificaciones</value>
+  <row id="527DAF03C4924A7B82415E7F6ECFAFF5" trl="Y">
+    <value column="Name" isTrl="Y" original="Registered">Fecha de registro</value>
+    <value column="PrintName" isTrl="Y" original="Registered">Fecha de registro</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="5504CA1DAF3849D2B6812ADEF8333969" trl="N">
+    <value column="Name" isTrl="Y" original="Rating for project">Calificación del proyecto</value>
+    <value column="PrintName" isTrl="Y" original="Rating for project">Calificación del proyecto</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -240,6 +290,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="72281603BFF14134AB9569EA92E3E250" trl="Y">
+    <value column="Name" isTrl="Y" original="Phase Project">Fase del proyecto</value>
+    <value column="PrintName" isTrl="Y" original="Phase Project">Fase del proyecto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="75760B3B85E34622BC8DE1BB7BD39489" trl="Y">
     <value column="Name" isTrl="Y" original="Budge Document">Presupuestos en documentos</value>
     <value column="PrintName" isTrl="Y" original="Budge Document">Presupuestos en documentos</value>
@@ -261,8 +321,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7875DC4DD361472B86B5094A4B03A325" trl="Y">
-    <value column="Name" isTrl="Y" original="Duration">Duración</value>
-    <value column="PrintName" isTrl="Y" original="Duration">Duración</value>
+    <value column="Name" isTrl="Y" original="Duration(MM:SS)">Duración(MM:SS)</value>
+    <value column="PrintName" isTrl="Y" original="Duration(MM:SS)">Duración(MM:SS)</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -431,8 +491,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C9325E0A653B4213B9E0A6AF35AF857B" trl="Y">
-    <value column="Name" isTrl="Y" original="Status project">Estado del proyecto</value>
-    <value column="PrintName" isTrl="Y" original="Status project">Estado del proyecto</value>
+    <value column="Name" isTrl="Y" original="Legal Status">Situación legal</value>
+    <value column="PrintName" isTrl="Y" original="Legal Status">Situación legal</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -513,6 +573,26 @@
   <row id="F49F2CAE14A147C1A85AA8F0ADBFDB4D" trl="N">
     <value column="Name" isTrl="N" original="PMB_Project_Contact_ID">PMB_Project_Contact_ID</value>
     <value column="PrintName" isTrl="N" original="PMB_Project_Contact_ID">PMB_Project_Contact_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F74A88EFD3804F5AB6E876497D9DB139" trl="Y">
+    <value column="Name" isTrl="Y" original="Value of option">Monto de opción</value>
+    <value column="PrintName" isTrl="Y" original="Value of option">Monto de opción</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F8AD3AC0786243F4BB707AE843E3449C" trl="Y">
+    <value column="Name" isTrl="Y" original="Right Amount">Monto de derecho</value>
+    <value column="PrintName" isTrl="Y" original="Right Amount">Monto de derecho</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
