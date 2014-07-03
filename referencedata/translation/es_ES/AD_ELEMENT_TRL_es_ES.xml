@@ -10,6 +10,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="0A4D054D5CE447F785E89091425FAB1C" trl="Y">
+    <value column="Name" isTrl="Y" original="Profession">Profesiones</value>
+    <value column="PrintName" isTrl="Y" original="Profession">Profesiones</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="0A9D5D922CD6494DA5E40A1CC81C8F1C" trl="N">
     <value column="Name" isTrl="N" original="PMB_Project_id">PMB_Project_id</value>
     <value column="PrintName" isTrl="N" original="PMB_Project_id">PMB_Project_id</value>
@@ -63,6 +73,16 @@
   <row id="132AF0FB893F4C87AEECA7577A75782C" trl="Y">
     <value column="Name" isTrl="Y" original="Sequence Phase">Secuencia</value>
     <value column="PrintName" isTrl="Y" original="Sequence">Secuencia</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="17E969DD454645068B99F8C55BFE5C27" trl="Y">
+    <value column="Name" isTrl="N" original="RFC">RFC</value>
+    <value column="PrintName" isTrl="N" original="RFC">RFC</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -181,8 +201,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3CC4BCF5D0BB44739A16124856F82860" trl="Y">
-    <value column="Name" isTrl="Y" original="Registered project">Proyecto registrado</value>
-    <value column="PrintName" isTrl="Y" original="Registered project">Proyecto registrado</value>
+    <value column="Name" isTrl="Y" original="Registration author">Registro de autor</value>
+    <value column="PrintName" isTrl="Y" original="Registration author">Registro de autor</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

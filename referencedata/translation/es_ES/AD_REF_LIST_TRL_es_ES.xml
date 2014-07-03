@@ -4,6 +4,10 @@
     <value column="Name" isTrl="Y" original="Sold">Vendida</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="057BA7F8CE3646C1A716339E8239FF02" trl="Y">
+    <value column="Name" isTrl="Y" original="Producer">Productor</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="1140EF5800C940ABBE3C10564A9F80A9" trl="Y">
     <value column="Name" isTrl="Y" original="Law Firm">Firma de Derecho</value>
     <value column="Description" isTrl="N" original=""/>
@@ -18,6 +22,10 @@
   </row>
   <row id="153B4F0E696C493B94962BDC0EEEEC61" trl="Y">
     <value column="Name" isTrl="N" original="4">4</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="201F4B31E77C45ABA1A242EB08D50C6A" trl="Y">
+    <value column="Name" isTrl="Y" original="Writer / talent">Escritora/talento</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="20B14C90508F42D490A4B3FD8680A658" trl="Y">
@@ -38,6 +46,10 @@
   </row>
   <row id="2D1CA45A23D2486A9F6D97BAE546167A" trl="Y">
     <value column="Name" isTrl="N" original="3">3</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="32DAF5206E4D4558811DC8DFE99E00D4" trl="Y">
+    <value column="Name" isTrl="Y" original="Writer">Escritor</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="33D4667FDAF94BADBC29FEFD2E921941" trl="Y">
@@ -80,12 +92,24 @@
     <value column="Name" isTrl="Y" original="Signature Option">Firma de Opción</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="6765D186F12F42F4A982642E87C05E58" trl="Y">
+    <value column="Name" isTrl="Y" original="Comedian">Comediante</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="6A6ADB3F54F048C4A41A88ECEF81794D" trl="Y">
     <value column="Name" isTrl="Y" original="Level 2">Nivel 2</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="70527A48978944C09D1DED8D29A15C75" trl="Y">
     <value column="Name" isTrl="Y" original="Production ">Produccion</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="708D42FBBBE8471AB9FAA089832F448F" trl="Y">
+    <value column="Name" isTrl="Y" original="Writer / Producer">Escritor/Productor</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="709240C612704293A1B2FC5ECF39111E" trl="Y">
+    <value column="Name" isTrl="Y" original="Writer / Writer">Guionista/Escritor</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="78084EEF646946C8992BF7C51FA65FF3" trl="Y">
@@ -118,6 +142,10 @@
   </row>
   <row id="968DE4212E20436EA88EF119E37B5013" trl="Y">
     <value column="Name" isTrl="Y" original="80 Minuts">80 Minutos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="9DF5CA447CD94DFF8A1447867E0F1E27" trl="Y">
+    <value column="Name" isTrl="Y" original="Writer">Escritora</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A5A8AFD2F01D4FA9B30AF4F33893DCBB" trl="Y">
@@ -186,6 +214,10 @@
   </row>
   <row id="D25B26AA5CA7484BB7B66E7068EE6BAD" trl="Y">
     <value column="Name" isTrl="Y" original="Electronic">Electrónico</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D49970C0C2D74A6D9E59646D6C1A13A5" trl="Y">
+    <value column="Name" isTrl="Y" original="Screenwriter">Guionista</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D54A095874324778BB5E6A9C2116C00A" trl="Y">

@@ -70,6 +70,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="F026C41C704544239458E9900C26155D" trl="N">
+    <value column="Name" isTrl="N" original="Professions">Professions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="F22AE08D0A8C44439C00E87854DDD8FE" trl="N">
     <value column="Name" isTrl="N" original="Medio de recepcion">Medio de recepcion</value>
     <value column="Description" isTrl="N" original=""/>
