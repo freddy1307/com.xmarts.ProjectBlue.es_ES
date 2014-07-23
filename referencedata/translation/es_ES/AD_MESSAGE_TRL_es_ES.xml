@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MESSAGE" version=""/>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MESSAGE" version="">
+  <row id="53D0D76C68BE4DEFAE22C2FA55E68FFE" trl="Y">
+    <value column="MsgText" isTrl="Y" original="The other field is required.">El campo otro es obligatorio.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

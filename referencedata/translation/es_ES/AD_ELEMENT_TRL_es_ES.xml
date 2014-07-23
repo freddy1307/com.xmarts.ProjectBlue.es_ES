@@ -300,6 +300,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="6AF70E842ED34AFB95A2548808593055" trl="Y">
+    <value column="Name" isTrl="Y" original="Notes copyright registration">Notas de registro de autor</value>
+    <value column="PrintName" isTrl="Y" original="Notes copyright registration">Notas de registro de autor</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="6BF84C7B433648D5A72CCE1E01238C1F" trl="Y">
     <value column="Name" isTrl="Y" original="I choose for projects conclave? ">Proyectos seleccionado para cónclave?</value>
     <value column="PrintName" isTrl="Y" original="I choose for projects conclave? ">Proyectos seleccionado para cónclave?</value>
